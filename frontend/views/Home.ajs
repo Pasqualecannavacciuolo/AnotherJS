@@ -1,0 +1,3 @@
+<!-- Aggiungi l'import del modulo Home.js -->
+<h1>Home Page</h1>
+<button id="homeAlertButton" @click=homeFunctions.showAlert()>Click me</button>

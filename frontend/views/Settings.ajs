@@ -1,0 +1,2 @@
+<h1>Settings Page</h1>
+<button id="settingAlertButton" @click=settingFunctions.showAlert()>Click me</button>

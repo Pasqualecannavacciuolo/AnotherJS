@@ -1,0 +1,19 @@
+{
+  "name": "anotherjs",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "AnotherJS is another javascript framework aiming to be very small in size but capable to do the baisc tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "framework"
+  ],
+  "author": "Pasquale Cannavacciuolo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
